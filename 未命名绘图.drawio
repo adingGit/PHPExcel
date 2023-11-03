@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T05:16:35.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bQWKr-MoDtRvwH5nZEZG" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T05:17:54.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Om_vHUhEvzjfMCYl-TES" version="22.0.8" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1539" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="732" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,6 +451,9 @@
         </mxCell>
         <mxCell id="_ml1ooQkZq6HSQxFkApG-145" value="11034" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="853" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ml1ooQkZq6HSQxFkApG-146" value="数据库集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="424" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
